@@ -10,7 +10,7 @@ orderInfo 订单的基本信息， applyDetail 产品政策对应信息， addIn
 | userMobile | 用户手机号码 | String | 是 |
 | applicationAmount | 申请金额 | Float | 是 |
 | applicationTerm | 申请期限（日） | Int | 是 |
-| orderTime | 订单创建时间 | timestamp | 是 |
+| orderTime | 订单创建时间 | Timestamp | 是 |
 
 ### applyDetail字段说明：
 
