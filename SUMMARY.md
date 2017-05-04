@@ -6,6 +6,7 @@
 
 ## Methods
 
+* 复贷&老用户过滤接口（闪电周转提供）
 * [订单基本信息推送接口（闪电周转提供）](methods.md)
 * [追加认证信息推送接口（闪电周转提供）](zhui-jia-ren-zheng-xin-xi-tui-song-jie-kou-ff08-shan-dian-zhou-zhuan-ti-gong-ff09.md)
 * 重推追加认证信息接口（借360提供）
